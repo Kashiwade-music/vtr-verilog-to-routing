@@ -1,0 +1,5 @@
+vpr_status=exited with return code 1
+vpr_seconds=0
+rundir=/workspaces/vtr-verilog-to-routing/workspaces
+hostname=2a92a89a22bc
+error=

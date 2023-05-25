@@ -1,7 +1,7 @@
 FROM ubuntu:22.04
 ARG DEBIAN_FRONTEND=noninteractive
 # set out workspace
-ENV WORKSPACE=/workspace
+ENV WORKSPACE=/vtr_root
 RUN mkdir -p ${WORKSPACE}
 WORKDIR ${WORKSPACE}
 COPY . ${WORKSPACE}
